@@ -6,3 +6,6 @@ Both behavioral and self-reported trust are measured. Here I used Weight on Advi
 
 ## Tool
 I used lab.js as the platform to design my experiment. It's a simple, graphical tool to help you build studies for the web and the laboratory. Several javascript scripts should be added to customize the settings.
+
+## Contact
+If you are interested in the research result, please contact me: tesjunma@gmail.com.
